@@ -2,7 +2,7 @@
 
 A full-stack note-taking application built with React, Vite, Node.js, Express, and MongoDB. Easily create, view, and manage your notes with a modern, responsive interface and robust backend.
 
-![Thinkboard Banner](public/vite.svg)
+
 
 ---
 
