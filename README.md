@@ -51,9 +51,9 @@ npm install
   ```
 - Start the backend server:
   ```bash
- cd backend
- npm install
- npm run dev
+  cd backend
+  npm install
+  npm run dev
   ```
 
 ### 3. Setup Frontend
