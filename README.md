@@ -49,10 +49,8 @@ npm install
   PORT=5001
   NODE_ENV=development
   ```
-- Start the backend server:
+- Run the backend server:
   ```bash
-  cd backend
-  npm install
   npm run dev
   ```
 
